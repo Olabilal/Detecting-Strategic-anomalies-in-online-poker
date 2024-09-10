@@ -8,7 +8,7 @@ Building AI Course Project - Opening Lead Cheaters in Bridge
 
 ---
 
-# Summary:
+## Summary:
 This project aims to develop an AI system to assess and analyze opening leads in the game of bridge. The model will be trained on data from online bridge servers and used to detect anomalies in opening lead selections, potentially identifying players whose lead choices differ suspiciously from typical behavior.
 
 ---
